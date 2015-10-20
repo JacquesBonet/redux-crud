@@ -35,7 +35,7 @@
     "invariant": "^2.1.0",
     "lodash": "~3.10.1",
     "seamless-immutable": "~3.0.0",
-    "siu": "^0.4.0"
+    "siu": "https://github.com/JacquesBonet/siu.git"
   },
   "gitHead": "16b8c289a361261fe49f464731480b2316939f7d",
   "_id": "redux-crud@0.7.0",
