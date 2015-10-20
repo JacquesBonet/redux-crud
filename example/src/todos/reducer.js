@@ -6,7 +6,7 @@ import bows        from 'bows'
 const baseReducers = reduxCrud.reducersFor('todos')
 const log = bows('todos--reducer')
 
-function reducer(state=SI([]), action) {
+function reducer(state=[], action) {
   switch (action.type) {
   default:
     return baseReducers(state, action)

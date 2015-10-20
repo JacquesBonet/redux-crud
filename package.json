@@ -8,13 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Versent/redux-crud"
+    "url": "git+https://github.com/Versent/redux-crud.git"
   },
   "keywords": [
     "redux",
     "crud"
   ],
-  "author": "Versent",
+  "author": {
+    "name": "Versent"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Versent/redux-crud/issues"
@@ -34,5 +36,27 @@
     "lodash": "~3.10.1",
     "seamless-immutable": "~3.0.0",
     "siu": "^0.4.0"
-  }
+  },
+  "gitHead": "16b8c289a361261fe49f464731480b2316939f7d",
+  "_id": "redux-crud@0.7.0",
+  "_shasum": "b1ff5818c944100325c5157e9f34db55691e3ec7",
+  "_from": "redux-crud@>=0.7.0 <0.8.0",
+  "_npmVersion": "2.14.4",
+  "_nodeVersion": "4.0.0",
+  "_npmUser": {
+    "name": "sporto",
+    "email": "sebasporto@gmail.com"
+  },
+  "dist": {
+    "shasum": "b1ff5818c944100325c5157e9f34db55691e3ec7",
+    "tarball": "http://registry.npmjs.org/redux-crud/-/redux-crud-0.7.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "sporto",
+      "email": "sebasporto@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/redux-crud/-/redux-crud-0.7.0.tgz"
 }
