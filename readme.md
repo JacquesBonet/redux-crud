@@ -2,6 +2,8 @@
 
 Fork of https://github.com/Versent/redux-crud
 
+Warning to build the example, to take the modified redux-crud projet and not the original from https://github.com/Versent/redux-crud
+
 # Changelog
 
 From the original redux-crud
