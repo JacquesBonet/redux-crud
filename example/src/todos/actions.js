@@ -47,7 +47,7 @@ let actionCreators = {
   create(todo) {
     return function(dispatch) {
       const cid = cuid()
-      todo = todo.merge({id: cid})
+      _.merge(todo, todo, {id: cid})
       // log('todo', todo)
       const optimisticAction = baseActionCreators.createStart(todo)
       dispatch(optimisticAction)

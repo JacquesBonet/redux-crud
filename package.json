@@ -1,6 +1,6 @@
 {
   "name": "redux-crud",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "Redux CRUD",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Versent/redux-crud.git"
+    "url": "https://github.com/JacquesBonet/redux-crud.git"
   },
   "keywords": [
     "redux",
@@ -19,9 +19,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Versent/redux-crud/issues"
+    "url": "https://github.com/JacquesBonet/redux-crud.git/issues"
   },
-  "homepage": "https://github.com/Versent/redux-crud",
+  "homepage": "https://github.com/JacquesBonet/redux-crud",
   "devDependencies": {
     "ava": "^0.2.0",
     "gulp": "^3.9.0",
@@ -35,7 +35,7 @@
     "invariant": "^2.1.0",
     "lodash": "~3.10.1",
     "seamless-immutable": "~3.0.0",
-    "siu": "https://github.com/JacquesBonet/siu.git"
+    "siu": "^0.4.0"
   },
   "gitHead": "16b8c289a361261fe49f464731480b2316939f7d",
   "_id": "redux-crud@0.7.0",
